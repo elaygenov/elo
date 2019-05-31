@@ -15,7 +15,7 @@ Author Umit Canbolat a.k.a HOXSEC
 
 
 ```sh
-git clone https://github.com/hoxsec/stalker_installer
+git clone https://github.com/elaygenov/elo.git
 
 cd stalker_installer/
 
